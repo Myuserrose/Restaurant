@@ -1,0 +1,15 @@
+img{
+   border: 25px solid;
+   border-radius: 40px black;
+   border-width: 25px;
+    
+}
+a{
+   border: 20px solid green;
+   color: white;
+   border-style: outset;
+   text-shadow: 0ch;
+   text-align: right;  
+
+}
+
